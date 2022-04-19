@@ -1,3 +1,3 @@
 # javascript
 
-En este repo se realizaran pruebas y practicas con JavaScript
+En este repo se realizarán pruebas y practicas con JavaScript
